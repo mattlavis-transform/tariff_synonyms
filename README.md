@@ -1,4 +1,4 @@
-# Create tariff data corpus for Elasticsearch
+# Manage synonyms
 
 ## Implementation steps
 
@@ -13,20 +13,10 @@
 
 ## Usage
 
-### Create the facets for use in the Elasticsearch data file
-`python3 create_facets.py`
+### Trim synonyms
 
-#### How does the create filters function work
+`python3 trim.py`
 
-- The master data set is stored in the Excel spreadsheet referenced in the FACETS_MASTER environment variable
-- This data file
+### Copy synonyms
 
-### To create the NDJSON data
-`python3 generate_es_corpus.py`
-
-
-### To import data into Elasticsearch
-`./es_import`
-
-### Run the synonym copy only
-"../../7. OTT elastic/elk/copy_synonyms"
+`./copy_synonyms`

@@ -1,0 +1,6 @@
+tarmac,tarmacadam
+asphalt,bitumen
+gypsum => gyproc,placo,rigips,gypcore,armstrong
+anhydrite,CaSO4
+propane,lpg
+perfume,cologne

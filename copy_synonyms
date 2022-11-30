@@ -1,0 +1,25 @@
+# REM Copy synonyms
+echo "Copying synonym files"
+
+docker cp resources/synonyms/synonyms_generic.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_genre_expansion.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_trees.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_flowers.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_cheeses.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_drugs.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_food.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_minerals.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_animals.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_us_english.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_hmrc.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+
+# REM Copy stemming exclusions
+echo "Copying stemming exclusions"
+docker cp resources/stem_exclusions/stem_exclusions.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+
+# REM Copy Hunspell dictionaries
+echo "Copying Hunspell dictionaries"
+docker cp resources/hunspell/en_US.aff f3e035bf5cd3:/usr/share/elasticsearch/config/hunspell/en_US
+docker cp resources/hunspell/en_US.dic f3e035bf5cd3:/usr/share/elasticsearch/config/hunspell/en_US
+
+echo "All files copied"

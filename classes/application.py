@@ -8,8 +8,9 @@ class Application(object):
     def __init__(self):
         self.synonym_files = []
         load_dotenv('.env')
-        self.synonym_path = os.getenv("SYNONYM_PATH")
-        self.out_path = os.path.join(os.getcwd(), "out")
+        self.resources_path = os.path.join(os.getcwd(), "resources")
+        self.synonym_path = os.path.join(self.resources_path, "synonyms")
+        self.out_path = os.path.join(self.synonym_path, "trimonyms")
         self.synonym_pattern = os.path.join(self.synonym_path, "synonyms*")
         self.get_synonym_files()
 

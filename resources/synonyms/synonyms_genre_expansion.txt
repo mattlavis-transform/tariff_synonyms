@@ -5,5 +5,4 @@ cutlery => cutlery,dinnerware
 body => body,corselette
 gown => gown,dress
 hose => hose,pantyhose
-accumulator => battery,accumulator,
-accumulator,
+accumulator => battery,accumulator
