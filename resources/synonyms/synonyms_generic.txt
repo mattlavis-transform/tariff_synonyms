@@ -84,3 +84,4 @@ imac,minicomputer,microcomputer => computer
 tablet => tablet
 ipad => ipad
 stove,oven
+medicine,medicament
