@@ -85,3 +85,7 @@ tablet => tablet
 ipad => ipad
 stove,oven
 medicine,medicament
+uniross,duracell,energizer,everready,rayovac
+ambergris,ambergrease
+basin,washbasin
+infant,baby

@@ -1,4 +1,3 @@
-unit,whole
 being,organism
 individual,mortal,person,somebody,someone,soul
 animal,beast,brute,creature,fauna
@@ -2474,7 +2473,6 @@ cock,stopcock,turncock
 depot,entrepot,storage,store,storehouse
 storeroom,stowage
 stoop,stoup
-range,stove
 strad,stradavarius
 straight,straightaway
 straightjacket,straitjacket
