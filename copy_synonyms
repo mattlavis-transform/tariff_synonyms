@@ -11,7 +11,7 @@ docker cp resources/synonyms/synonyms_food.txt f3e035bf5cd3:/usr/share/elasticse
 docker cp resources/synonyms/synonyms_minerals.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
 docker cp resources/synonyms/synonyms_animals.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
 docker cp resources/synonyms/synonyms_us_english.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
-docker cp resources/synonyms/synonyms_hmrc.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
+docker cp resources/synonyms/synonyms_wordnet.txt f3e035bf5cd3:/usr/share/elasticsearch/config/
 
 # REM Copy stemming exclusions
 echo "Copying stemming exclusions"

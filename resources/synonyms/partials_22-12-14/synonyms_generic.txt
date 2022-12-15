@@ -1,5 +1,4 @@
 liver,kidney,tripe => offal
-universe,cosmos
 apparel,clothes,clothing
 apron,pinafore,pinnafore,pinny
 carcass,carcas,carcases,carcasses
@@ -37,26 +36,25 @@ bangle,bracelet
 bath,bathtub
 christmas,xmas
 biscuits,cookies
-glucose,dextrose
+glucose,dextrose,dextroglucose
 doll,dolly
 ale,beer,lager
 necklace,pendant
-estrogen,oestrogen
+estrogen,oestrogen,oestrous,oestrus,estrous,estrous
 earphones,headphones
 ecigarettes,e-cigarettes
 holdalls,hold-alls
-children,kids
 kiwi,kiwifruit
 lamp,lantern
 polychloroprene,neoprene
-pajamas,pyjamas
+pajamas,pyjamas,pjs,jammies
 playstation,xbox
-carbohydride,cementite,heterodiamond,kappa-carbide,tantalcarbide => 2849909000
+carbohydride,cementite,heterodiamond,tantalcarbide => 2849909000
 hexoloy => 2849200000
-chairs,seats
+chairs,seats,seating
 concertina,bandoneon,squeezebox => accordion
 watch,wristwatch
-dumptruck => dumper
+dumptruck => dumper,tipper
 led,leds
 autobus,bus
 blouson => jacket
@@ -71,8 +69,8 @@ dolman,robe
 overalls,dungarees
 frock,dress
 gilet,jerkin => waistcoat
-jersey,pullover,jumper
-manteau,cloak,mantle
+jersey,pullover,jumper,sweater
+manteau,cloak,mantle,cape
 negligee,neglige
 nightdress,nightgown,nightie,peignoir
 pashmina,shawl
@@ -81,11 +79,44 @@ romper,rompersuit
 pc => computer
 microprocessor => processor,microprocessor
 imac,minicomputer,microcomputer => computer
-tablet => tablet
-ipad => ipad
+ipad => tablet,ipad
 stove,oven
-medicine,medicament
+medicament,medication,medicine
 uniross,duracell,energizer,everready,rayovac
 ambergris,ambergrease
-basin,washbasin
+handbasin,lavabo,washbowl,basin,washbasin,washbowl,washstand
 infant,baby
+chipwood,chipboard
+hoopwood,ash,winterberry,ilex
+kraftliner,corrugated
+newsletter,gazette,bulletin
+journal,diary
+benzol,benzole
+methanal,formaldehyde
+ethanal,acetaldehyde
+saccharin,saccharine
+vetiver,khus
+jasmine,jasmin
+quinquenervia,niaouli
+child,children,kid,juvenile,youngster,youth
+clutchbag,handbag
+headgear,headwear
+hivis,hi-vis,hiviz,hi-viz
+heatproof,heat-proof
+high-heel,stiletto
+hiking,walking
+home-made,homemade
+jewellery,jewelry,jewelery,jewllery
+canoe,kayak
+kimshi,kimchi
+crill,krill
+couscous,kuskus
+label,lable
+leggin,legging,jegging,leging
+magasine,magazine,periodical,journal
+make-up,makeup
+refuse,rubbish,garbage
+sneaker,trainer
+sweatpant,sweats
+racquet,racket
+workgear,workwear

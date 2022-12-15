@@ -6,7 +6,6 @@ food,nutrient
 artefact,artifact
 cognition,knowledge,noesis
 motivation,motive,need
-form,shape
 infinite,space
 group,grouping
 amount,measure,quantity
@@ -226,7 +225,6 @@ dendraspis,dendroaspis
 agkistrodon,ancistrodon
 rattler,rattlesnake
 beak,bill,pecker
-carcase,carcass
 arachnid,arachnoid
 opiliones,phalangida
 chelonethida,pseudoscorpiones,pseudoscorpionida
@@ -294,7 +292,6 @@ undercoat,underfur
 fleece,wool
 forelock,foretop
 vibrissa,whisker
-armor,armour
 carapace,cuticle,shell,shield
 phragmacone,phragmocone
 parazoan,poriferan,sponge
@@ -687,7 +684,6 @@ mudskipper,mudspringer
 cutlassfish,hairtail
 cavalla,cero
 cero,kingfish,pintado
-tuna,tunny
 butterfish,stromateid
 gerreidae,gerridae
 ganoin,ganoine
@@ -732,7 +728,6 @@ airdock,hangar
 airfield,field
 aerofoil,airfoil,surface
 airline,airway
-aeroplane,airplane,plane
 airscrew,prop
 aerodrome,airdrome,airport,drome
 airship,dirigible
@@ -755,7 +750,6 @@ amytal,blue
 amoxicillin,amoxil,augmentin,larotid,polymox,trimox
 amphetamine,speed,upper
 amphitheater,amphitheatre,coliseum
-amphitheater,amphitheatre
 ampicillin,polycillin,principen
 amrinone,inocor
 amulet,talisman
@@ -781,7 +775,6 @@ antipyretic,febrifuge
 antispasmodic,spasmolytic
 apartment,flat
 apparatus,setup
-apparel,clothes,dress
 appliance,contraption,contrivance,convenience,gadget,gismo,gizmo,widget
 applicator,applier
 appointment,fitting
@@ -796,11 +789,8 @@ argyle,argyll
 argyle,argyll
 argyle,argyll
 branch,limb
-armor,armour
-armory,armoury,arsenal
 arquebus,hackbut,hagbut,harquebus
 array,raiment,regalia
-armory,armoury,arsenal
 armory,armoury,arsenal
 artillery,ordnance
 ashbin,ashcan,dustbin,wastebin
@@ -817,7 +807,6 @@ atmometer,evaporometer
 atomiser,atomizer,nebuliser,nebulizer,spray,sprayer
 atorvastatin,lipitor
 attachment,bond
-attire,dress,garb
 audiometer,sonometer
 auger,gimlet,wimble
 autoclave,steriliser,sterilizer
@@ -831,7 +820,7 @@ azathioprine,imuran
 retrovir,zidovudine
 azithromycin,zithromax
 azactam,aztreonam
-carriage,perambulator,pram,pushchair,pusher,stroller
+perambulator,pram,pushchair,pusher,stroller
 back,backrest
 backcloth,backdrop,background
 background,desktop
@@ -839,7 +828,7 @@ backing,mount
 backpack,haversack,knapsack,packsack,rucksack
 backspace,backspacer
 grip,suitcase
-handbag,pocketbook,purse
+handbag,purse
 bagatelle,fluff,frippery,frivolity
 baggage,luggage
 bait,decoy,lure
@@ -869,7 +858,6 @@ bark,barque
 barrel,cask
 barroom,ginmill,saloon,taproom
 barrow,wheelbarrow
-base,pedestal,stand
 diamond,infield
 glove,mitt
 baseboard,mopboard
@@ -913,7 +901,6 @@ bennie,benzedrine
 berth,bunk
 bevel,cant,chamfer
 bicorn,bicorne
-bicycle,bike,cycle,wheel
 scag,skag,smack,thunder
 bill,eyeshade,peak,visor,vizor
 bill,billhook
@@ -929,7 +916,6 @@ blade,vane
 blank,dummy
 blanket,cover
 blender,liquidiser,liquidizer
-blimp,sausage
 blind,screen
 blinker,flasher
 block,blockage,closure,occlusion,stop,stoppage
@@ -966,7 +952,6 @@ brace,bracing
 bitstock,brace
 brace,braces
 brace,gallus,suspender
-bangle,bracelet
 armguard,bracer
 bradawl,pricker
 braid,braiding
@@ -1049,11 +1034,10 @@ canvas,canvass
 canvas,canvass
 capacitance,capacitor,condenser
 caparison,housing,trapping
-cape,mantle
 capital,chapiter
 capstone,copestone,stretcher
 capoten,captopril
-auto,automobile,machine,motorcar
+auto,automobile,motorcar
 carabiner,karabiner
 carafe,decanter
 caravansary,caravanserai,khan
@@ -1068,7 +1052,6 @@ carrel,carrell,cubicle,stall
 carriage,equipage
 carryall,holdall,tote
 cartouch,cartouche
-cartridge,pickup
 clip,magazine
 case,showcase,vitrine
 case,pillowcase,slip
@@ -1095,11 +1078,8 @@ celebrex,celecoxib
 cell,cubicle
 cellblock,ward
 cello,violoncello
-cell,cellphone
 censer,thurible
-center,centre
 centerboard,centreboard
-center,centerfield
 centerpiece,centrepiece
 central,exchange
 c.p.u.,mainframe,processor
@@ -1146,7 +1126,7 @@ chokey,choky
 chopine,platform
 chrism,chrisom
 chute,slide,slideway
-butt,cigaret,cigarette
+cigaret,cigarette
 cimetidine,tagamet
 cinch,girth
 cipro,ciprofloxacin
@@ -1168,7 +1148,6 @@ cloakroom,coatroom
 clog,geta,patten,sabot
 clomid,clomiphene
 catapres,clonidine
-clothing,habiliment,vesture,wear,wearable
 clozapine,clozaril
 club,clubhouse
 coalbin,coalhole
@@ -1188,8 +1167,6 @@ collage,montage
 collar,neckband
 collectable,collectible
 colorimeter,tintometer
-colors,colours
-colors,colours
 colter,coulter
 cinerarium,columbarium
 column,pillar
@@ -1252,7 +1229,6 @@ crockery,dishware
 crossing,crossover,crosswalk
 crown,diadem
 crest,crown
-crown,crownwork,jacket
 crucifix,rood
 crewet,cruet
 cubby,cubbyhole,snug,snuggery
@@ -1266,10 +1242,9 @@ curet,curette
 curio,curiosity,oddity,oddment,peculiarity,rarity
 crimper,curler,roller
 cursor,pointer
-curtain,drape,drapery,mantle,pall
+curtain,drape,drapery,pall
 customhouse,customshouse
 cutlas,cutlass
-cutlery,cutter
 cyclobenzaprine,flexeril
 cyma,cymatium
 cyproheptadine,periactin
@@ -1342,7 +1317,6 @@ dowser,waterfinder
 dock,dockage
 doodad,doohickey,doojigger,gimmick,gismo,gizmo,gubbins,thingamabob,thingamajig,thingmabob,thingmajig,thingumabob,thingumajig,thingummy,whatchamacallit,whatchamacallum,whatsis,widget
 doily,doyley,doyly
-doll,dolly
 cromlech,dolmen
 bell,buzzer,doorbell
 doorcase,doorframe
@@ -1367,7 +1341,6 @@ drawknife,drawshave
 drawstring,string
 camion,dray
 dreadnaught,dreadnought
-dress,frock
 beaver,stovepipe,topper
 dresser,vanity
 tailcoat,tails
@@ -1385,7 +1358,6 @@ drier,dryer
 duffel,duffle
 duffel,duffle
 dugout,pirogue
-dumper,tipper
 duplicate,duplication
 copier,duplicator
 dustcloth,duster,dustrag
@@ -1393,7 +1365,6 @@ duster,gabardine,gaberdine,smock
 abode,domicile,dwelling,habitation,home
 dynamometer,ergometer
 earflap,earlap
-earphone,earpiece,headphone,phone
 effigy,image,simulacrum
 eggbeater,eggwhisk
 duvet,eiderdown
@@ -1468,7 +1439,6 @@ fetter,hobble
 fiber,fibre
 fiberboard,fibreboard
 glass,spyglass
-figurine,statuette
 filagree,filigree,fillagree
 fillet,stopping
 finder,viewfinder
@@ -1483,7 +1453,7 @@ fishery,piscary
 fixings,trimmings
 flag,flagstone
 flagpole,flagstaff
-flannel,gabardine,tweed,white
+flannel,gabardine,tweed
 flap,flaps
 flash,flashbulb,flashgun,photoflash
 flashboard,flashboarding
@@ -1522,7 +1492,7 @@ eveningwear,formalwear
 fortification,munition
 fort,fortress
 assembly,forum
-base,foot,foundation,fundament,groundwork,substructure,understructure
+foundation,fundament,groundwork,substructure,understructure
 foundry,metalworks
 fount,fountain
 frame,framing
@@ -1577,7 +1547,6 @@ gorgerin,necking
 calabash,gourd
 governor,regulator
 gown,robe
-gown,scrubs
 graffiti,graffito
 grail,sangraal
 garner,granary
@@ -1625,7 +1594,6 @@ cart,handcart,pushcart
 cuff,handcuff,handlock,manacle
 handcraft,handicraft,handiwork,handwork
 handkerchief,hankey,hankie,hanky
-grip,handgrip,handle,hold
 halter,hemp
 harbor,harbour
 hardback,hardcover
@@ -1668,23 +1636,16 @@ hideaway,retreat
 highboy,tallboy
 encumbrance,hinderance,hindrance,hitch,incumbrance,interference,preventative,preventive
 hobby,hobbyhorse
-hold,keep
 holloware,hollowware
 hologram,holograph
-home,plate
 dive,honkytonk
 bonnet,cowl,cowling,hood
-claw,hook
 calean,chicha,hookah,kalian,narghile,nargileh,sheesha,shisha
 assemblage,hookup
-hoop,ring
 crinoline,hoopskirt
 hoosegow,hoosgow
 hopsack,hopsacking
 hornpipe,pibgorn,stockhorn
-horseshoe,shoe
-hose,hosepipe
-hose,hosiery
 hospital,infirmary
 auberge,hostel,hostelry,lodge
 cardcastle,cardhouse
@@ -1721,7 +1682,6 @@ indocin,indomethacin
 inductance,inductor
 inflater,inflator
 infliximab,remicade
-base,infrastructure
 infrastructure,substructure
 inhalant,inhalation
 inhalator,inhaler
@@ -1733,7 +1693,6 @@ instrumentality,instrumentation
 diaglyph,intaglio
 inlet,intake
 integrator,planimeter
-interface,port
 cyberspace,internet
 carrefour,crossing,crossroad,crossway,intersection
 innovation,invention
@@ -1753,7 +1712,6 @@ clink,gaol,jail,jailhouse,pokey,poky,slammer
 jamjar,jampot
 denim,jeans
 jeep,landrover
-jewellery,jewelry
 jigger,jiggermast
 fretsaw,jigsaw
 crackerjack,jimdandy,jimhickey
@@ -1763,7 +1721,6 @@ joint,reefer,spliff,stick
 jook,juke
 fetich,fetish,hoodoo,juju,voodoo
 jukebox,nickelodeon
-jumper,pinafore,pinny
 conjunction,junction
 caaba,kaaba
 kanamycin,kantrex
@@ -1803,9 +1760,6 @@ lagan,lagend,ligan
 lampshade,shade
 lance,lancet
 laniard,lanyard
-laniard,lanyard
-laniard,lanyard
-larboard,port
 lash,thong
 lariat,lasso,reata,riata
 lathee,lathi
@@ -1815,11 +1769,8 @@ laundry,wash,washables,washing
 lavalier,lavaliere,lavalliere
 court,lawcourt
 lazaret,lazarette,lazaretto,pesthouse
-lead,leading
-lead,leash,tether
 arava,leflunomide
 left,leftfield
-legging,leging
 lemon,stinker
 lens,lense
 leotard,unitard
@@ -1839,13 +1790,11 @@ liner,lining
 link,linkup
 lisinopril,prinival,zestril
 lister,middlebreaker
-parlor,parlour
 burden,load,loading
 engine,locomotive
 attic,garret,loft
 lookout,observatory
 ativan,lorazepam
-camion,lorry
 application,lotion
 loudspeaker,speaker
 louver,louvre
@@ -1894,7 +1843,6 @@ mahlstick,maulstick
 labyrinth,maze
 antivert,meclizine
 meclofenamate,meclomen
-medicament,medication,medicine
 larium,mefloquine,mephaquine
 alkeran,melphalan
 memorial,monument
@@ -1969,7 +1917,6 @@ mortice,mortise
 mosaic,photomosaic
 motif,motive
 motorboat,powerboat
-bike,motorcycle
 hill,mound
 hill,mound
 mount,setting
@@ -1999,7 +1946,6 @@ mesh,meshing,meshwork,network
 nevirapine,viramune
 newspaper,paper
 nifedipine,procardia
-gown,nightdress,nightgown,nightie
 nightclothes,nightwear,sleepwear
 ninepin,skittle
 macrodantin,nitrofurantoin
@@ -2048,8 +1994,6 @@ cushioning,padding
 paillasse,palliasse
 paint,pigment
 painting,picture
-jammies,pajama,pj's,pyjama
-pajama,pyjama
 castle,palace
 palankeen,palanquin
 palaestra,palestra
@@ -2073,11 +2017,9 @@ parasol,sunshade
 pargeting,pargetry,pargetting
 totalisator,totaliser,totalizator,totalizer
 anorak,parka,windbreaker,windcheater
-parlor,parlour
 paroxetime,paxil
 parqueterie,parquetry
 parsonage,rectory,vicarage
-part,portion
 partisan,partizan
 divider,partition
 favor,favour
@@ -2107,7 +2049,6 @@ nembutal,pentobarbital
 pentoxifylline,trental
 metrazol,pentamethylenetetrazol,pentylenetetrazol
 peplos,peplum,peplus
-essence,perfume
 periwig,peruke
 perphenazine,triavil
 organiser,organizer
@@ -2124,8 +2065,6 @@ disc,disk,platter,record
 exposure,photo,photograph,picture
 piano,pianoforte
 clavier,fingerboard
-pick,pickax,pickaxe
-pick,plectron,plectrum
 pale,picket
 icon,ikon,image,picture
 part,piece
@@ -2152,7 +2091,6 @@ plane,planer
 plant,works
 plaster,plasterwork
 plate,scale,shell
-center,mall,plaza
 plait,pleat
 plessimeter,pleximeter
 percussor,plessor,plexor
@@ -2172,9 +2110,7 @@ acrilan,polypropenonitrile
 pomade,pomatum
 pommel,saddlebow
 bodkin,poniard
-embrasure,port,porthole
 gladstone,portmanteau
-portrait,portrayal
 mailbox,postbox
 dope,gage,grass,locoweed,sens,sess,skunk,smoke,weed
 clayware,pottery
@@ -2201,14 +2137,11 @@ propeller,propellor
 prop,property
 propjet,turboprop
 darvon,propoxyphene
-apron,forestage,proscenium
 lopper,pruner
 psilocin,psilocybin
 pothouse,saloon,taphouse
 convenience,restroom
 pullback,tieback
-block,pulley
-pullover,slipover
 punch,puncher
 marionette,puppet
 aperient,cathartic,physic,purgative
@@ -2228,7 +2161,6 @@ racecourse,racetrack,raceway,track
 race,raceway
 rack,stand
 rack,wheel
-racket,racquet
 radar,radiolocation
 radio,wireless
 radiogram,radiograph,shadowgraph,skiagram,skiagraph
@@ -2262,7 +2194,6 @@ lounger,recliner
 reflection,reflexion
 icebox,refrigerator
 asylum,refuge,sanctuary
-button,release
 embossment,relief,relievo,rilievo
 remake,remaking
 curative,cure,remedy,therapeutic
@@ -2333,7 +2264,6 @@ scribe,scriber
 seal,stamp
 hydroplane,seaplane
 seascape,waterscape
-seating,seats
 secobarbital,seconal
 escritoire,secretaire,secretary
 section,segment
@@ -2418,7 +2348,6 @@ sabaton,solleret
 asdic,sonar
 echogram,sonogram
 hypnotic,soporific
-body,soundbox
 sordino,sourdine
 spandrel,spandril
 gaiter,spat
@@ -2509,7 +2438,6 @@ suppresser,suppressor
 swab,swob
 swathe,wrapping
 flyswat,flyswatter,swatter
-jumper,sweater
 sweats,sweatsuit
 swimsuit,swimwear
 patchboard,plugboard,switchboard
@@ -2540,7 +2468,6 @@ plaid,tartan
 tasse,tasset
 teahouse,tearoom,teashop
 telegraph,telegraphy
-phone,telephone
 telephoto,telephotograph
 scope,telescope
 teleprinter,teletypewriter,telex
@@ -2559,7 +2486,6 @@ terry,terrycloth
 tetrachlorethylene,tetrachloroethylene
 achromycin,tetracycline
 tetraskele,tetraskelion
-house,theater,theatre
 theodolite,transit
 elixophyllin,theobid,theophylline
 thermograph,thermometrograph
@@ -2632,8 +2558,6 @@ trip,tripper
 triskele,triskelion
 trifle,trivia,triviality
 prize,trophy
-pant,trousers
-motortruck,truck
 baton,billy,billystick,nightstick,truncheon
 truckle,trundle
 tube,tubing
@@ -2668,7 +2592,6 @@ gallery,veranda,verandah
 calan,isoptin,verapamil
 anthelminthic,anthelmintic,helminthic,vermifuge
 vessel,watercraft
-vest,waistcoat
 sacristy,vestry
 vibes,vibraharp,vibraphone
 videodisc,videodisk
@@ -2686,7 +2609,6 @@ wainscot,wainscoting,wainscotting
 dado,wainscot
 wainscoting,wainscotting
 strake,wale
-paseo,walk,walkway
 walker,zimmer
 drywall,wallboard
 billfold,notecase,pocketbook,wallet
@@ -2694,12 +2616,8 @@ peag,wampum,wampumpeag
 closet,press,wardrobe
 coumadin,warfarin
 load,payload,warhead
-handbasin,lavabo,washbasin,washbowl
-basin,lavatory,washbasin,washbowl,washstand
 splashboard,washboard
 flannel,washcloth,washrag
-ticker,watch
-bracelet,watchband,watchstrap,wristband
 closet,w.c.
 watercolor,watercolour
 watercolor,watercolour
@@ -2730,7 +2648,6 @@ blinder,blinker,winker
 wifi,wlan
 grillwork,wirework
 wood,woodwind
-filling,pick,weft,woof
 wool,woolen,woollen
 workbag,workbasket,workbox
 bench,workbench
@@ -2759,7 +2676,6 @@ groove,vallecula
 hilum,hilus
 chiasm,chiasma,decussation
 filament,filum
-fiber,fibre
 glabella,mesophyron
 prostheon,prosthion
 plexus,rete
@@ -2767,7 +2683,6 @@ case,sheath
 cutis,skin,tegument
 cuticle,epidermis
 corium,derma,dermis
-mantle,pallium
 macula,macule
 freckle,lentigo
 milium,whitehead
@@ -2891,7 +2806,6 @@ neutrophil,neutrophile
 eosinophil,eosinophile
 sperm,spermatozoan,spermatozoon
 myofibril,myofibrilla,sarcostyle
-center,centre
 neurilemma,neurolemma
 glia,neuroglia
 astroglia,macroglia
@@ -2963,7 +2877,6 @@ nape,nucha,scruff
 pharynx,throat
 fistula,sinus
 armpit,axilla
-body,torso,trunk
 pecs,pectoral,pectoralis
 chest,pectus,thorax
 breast,chest
@@ -3044,9 +2957,7 @@ sheet,tabloid
 column,editorial
 offprint,reprint,separate
 reissue,reprint,reprinting
-lead,lede
 telecom,telecommunication
-telephone,telephony
 cable,cablegram
 radiotelegraph,radiotelegraphy
 radiotelephone,radiotelephony
@@ -3066,8 +2977,6 @@ hyponym,subordinate
 hybrid,loanblend
 loan,loanword
 coinage,neologism,neology
-base,radical,root,stem,theme
-etymon,root
 language,nomenclature,terminology
 penult,penultima,penultimate
 antepenult,antepenultima,antepenultimate
@@ -3142,7 +3051,6 @@ epilog,epilogue
 continuation,sequel
 addendum,postscript,supplement
 excerpt,excerption,extract,selection
-diary,journal
 capitalisation,capitalization
 typewriting,typing
 hand,handwriting,script
@@ -3210,7 +3118,6 @@ abstract,outline,precis,synopsis
 recap,recapitulation,review
 resume,sketch,survey
 rundown,summation
-document,papers
 certificate,certification,credential,credentials
 copula,copulative
 enclosure,inclosure
@@ -3260,7 +3167,6 @@ deed,title
 licence,license,permit
 judgement,judgment,opinion
 amnesty,pardon
-acquittance,release
 authorisation,authorization,mandate
 process,summons
 interdict,interdiction
@@ -3362,11 +3268,8 @@ clincher,determiner
 reenforcement,reinforcement
 certification,corroboration,documentation
 counsel,counseling,counselling,direction,guidance
-hint,lead,steer,wind
-prescript,rule
 precept,principle
 ceiling,roof
-base,floor
 interference,intervention
 noninterference,nonintervention
 ordinance,regulation
@@ -3407,7 +3310,6 @@ eulogium,eulogy
 recommendation,testimonial
 character,reference
 blandishment,cajolery,palaver
-blarney,coaxing
 fulsomeness,smarm,unction
 accolade,award,honor,honour,laurels
 testimonial,tribute
@@ -3477,7 +3379,6 @@ gloss,rubric
 derivation,deriving,etymologizing
 answer,reply,response
 announcement,promulgation
-handout,release
 necrology,obit,obituary
 program,programme
 forecasting,foretelling,prediction,prognostication
@@ -3809,7 +3710,6 @@ chart,graph
 funnies,strip
 cardiogram,electrocardiogram
 electroencephalogram,encephalogram
-dramatics,dramaturgy,theater,theatre
 drama,play
 book,playscript,script
 dialog,dialogue
@@ -3922,7 +3822,6 @@ personification,prosopopoeia
 language,speech
 utterance,vocalization
 phonation,vocalisation,vocalism,vocalization,voice
-phone,sound
 gradation,grade
 schwa,shwa
 glide,semivowel
@@ -4053,7 +3952,6 @@ examination,interrogation,interrogatory
 interrogation,interrogative,question
 exam,examination,test
 comp,comprehensive
-oral,viva
 reply,response
 comeback,counter,rejoinder,replication,retort,return,riposte
 defence,defense,refutation
@@ -4099,8 +3997,6 @@ parole,word
 assurance,pledge
 plight,troth
 betrothal,engagement,troth
-boast,boasting,jactitation
-brag,bragging,crow,crowing,gasconade,vaporing
 bluster,braggadocio,rhodomontade,rodomontade
 denotation,indication
 dare,daring
@@ -4246,7 +4142,7 @@ debilitation,enervation,enfeeblement,exhaustion
 breakup,detachment,separation
 dispersion,scattering
 extermination,extinction
-departure,exit,expiration,going,loss,passing,release
+departure,exit,expiration,going,loss,passing
 doom,doomsday
 demolition,destruction,wipeout
 depredation,ravage
@@ -4494,12 +4390,10 @@ dainty,delicacy,goody,kickshaw,treat
 chow,chuck,eats,grub
 board,table
 coloring,colouring
-fiber,roughage
 aliment,alimentation,nourishment,nutriment,nutrition,sustenance,victuals
 commissariat,provender,provisions,viands,victuals
 meal,repast
 dejeuner,lunch,luncheon,tiffin
-barbecue,barbeque
 bite,collation,snack
 banquet,feast,spread
 helping,portion,serving
@@ -4516,11 +4410,9 @@ goulash,gulyas
 lobscouse,lobscuse,scouse
 takeaway,takeout
 tidbit,titbit
-savory,savoury
 confection,sweet
 candy,confect
 brittle,toffee,toffy
-center,centre
 jimmies,sprinkles
 panocha,panoche,penoche,penuche
 licorice,liquorice
@@ -4537,7 +4429,6 @@ sabayon,zabaglione
 dowdy,pandowdy
 pirogi,piroshki,pirozhki
 jumbal,jumble
-biscuit,cookie,cooky
 gingersnap,snap
 donut,doughnut,sinker
 cruller,twister
@@ -4553,7 +4444,6 @@ frier,fryer,pullet
 dove,squab
 giblet,giblets
 sweetbread,sweetbreads
-barbecue,barbeque
 biriani,biryani
 piece,slice
 cutlet,escallop,scallop,scollop
@@ -4580,7 +4470,6 @@ farce,forcemeat
 bread,breadstuff
 challah,hallah
 chapati,chapatti
-matzah,matzo,matzoh
 baguet,baguette
 cornpone,pone
 rusk,zwieback
@@ -4607,17 +4496,12 @@ courgette,zucchini
 cucumber,cuke
 beet,beetroot
 pimento,pimiento
-chile,chili,chilli,chilly
 monggo,moong,mung,munggo
 chickpea,garbanzo
 flageolet,haricot
 soya,soybean
 endive,escarole
 gumbo,okra
-rutabaga,swede
-cocoyam,dasheen,edda,taro
-earthnut,truffle
-earthnut,goober,groundnut,peanut
 cling,clingstone
 peel,skin
 bilberry,whortleberry
@@ -4650,11 +4534,9 @@ quandang,quandong,quantong
 rambotan,rambutan
 pulasan,pulassan
 chincapin,chinkapin,chinquapin
-cobnut,filbert,hazelnut
 cocoanut,coconut
 dolphinfish,mahimahi
 catfish,mudcat
-tuna,tunny
 calamari,calamary,squid
 blowfish,puffer,pufferfish
 escargot,snail
@@ -4663,7 +4545,6 @@ huitre,oyster
 quahaug,quahog
 crab,crabmeat
 crawdad,crawfish,crayfish,ecrevisse
-pollack,pollock
 schrod,scrod
 porgy,scup
 redfish,rosefish
@@ -4675,7 +4556,6 @@ coho,cohoe
 escallop,scallop,scollop
 brisling,sprat
 caviar,caviare
-feed,provender
 eatage,forage,grass,pasturage,pasture
 ensilage,silage
 cereal,grain
@@ -4685,30 +4565,24 @@ pigswill,pigwash,slop,slops,swill
 coleslaw,slaw
 tabbouleh,tabooli
 fixings,ingredient
-flavorer,flavoring,flavourer,flavouring,seasoner,seasoning
 ginger,gingerroot
 pepper,peppercorn
 cilantro,coriander
 fennel,finocchio
 marjoram,oregano
-savory,savoury
 estragon,tarragon
 catsup,cetchup,ketchup
 cardamom,cardamon,cardamum
-anise,aniseed
-acetum,vinegar
 ravigote,ravigotte
 mayo,mayonnaise
-albumen,ovalbumin,white
+albumen,ovalbumin
 omelet,omelette
-yoghourt,yoghurt,yogurt
 emmental,emmentaler,emmenthal,emmenthaler
 paste,spread
 hommos,hoummos,hummus,humous,humus
 sweetener,sweetening
 sirup,syrup
 falafel,felafel
-fondu,fondue
 fondu,fondue
 kabob,kebab
 souvlaki,souvlakia
@@ -4719,7 +4593,6 @@ burgoo,oatmeal
 rijstafel,rijstaffel,rijsttaffel
 scallopine,scallopini
 tamal,tamale
-beverage,drink,drinkable,potable
 concoction,intermixture,mixture
 philter,philtre
 draft,draught,potation,tipple
@@ -4743,7 +4616,6 @@ akvavit,aquavit
 arak,arrack
 geneva,hollands
 schnapps,schnaps
-whiskey,whisky
 cordial,liqueur
 absinth,absinthe
 curacao,curacoa
@@ -4766,7 +4638,6 @@ soochong,souchong
 perishable,spoilable
 ramekin,ramequin
 rugelach,ruggelach,rugulah
-mold,mould
 categorisation,categorization,classification
 dichotomy,duality
 clon,clone
@@ -4830,7 +4701,6 @@ image,range
 root,solution
 bundle,package,packet,parcel
 organisation,organization
-base,qaeda
 alir,interahamwe
 dflp,pdflp
 hezbollah,hizballah,hizbollah,hizbullah
@@ -4852,8 +4722,6 @@ automaker,carmaker
 filmdom,screen,screenland
 insurer,underwriter
 brotherhood,fraternity,sodality
-family,home,house,household,menage
-club,nine
 offence,offense
 defence,defense
 faith,religion
@@ -4907,7 +4775,6 @@ rabble,rout
 company,troupe
 choir,consort
 marines,usmc
-armor,armour
 mujahadeen,mujahadein,mujahadin,mujahedeen,mujahedin,mujahideen,mujahidin
 force,personnel
 squad,team
@@ -5001,7 +4868,6 @@ bolshevism,collectivism,sovietism
 descendants,posterity
 coevals,contemporaries,generation
 beatniks,beats
-bikers,rockers
 bootboys,skinheads
 folk,tribe
 colony,settlement
@@ -5013,13 +4879,11 @@ leaders,leadership
 appointment,date,engagement
 rendezvous,tryst
 chosen,elect
-cream,pick
 aristocracy,gentry
 clerisy,intelligentsia
 aristocracy,nobility
 baronage,peerage
 zamboorak,zamburak,zamburek,zumbooruck,zumbooruk
-foot,infantry
 militia,reserves
 soldiery,troops
 cavalry,horse
@@ -5036,7 +4900,6 @@ commission,delegacy,delegation,deputation,mission
 contingent,detail
 sisterhood,sistership
 exhibition,expo,exposition
-high,highschool
 panel,venire
 jury,panel
 seance,session,sitting
@@ -5083,7 +4946,6 @@ tadzhik,tajik
 abkhas,abkhaz
 inca,inka
 kechua,quechua
-base,home
 aerie,aery,eyrie,eyry
 airway,skyway
 soil,territory
@@ -5109,7 +4971,6 @@ border,borderline,delimitation,mete
 bourn,bourne
 borderland,march,marchland
 place,property
-center,centre
 circuit,circumference
 balk,baulk
 cabstand,taxistand
@@ -5120,7 +4981,6 @@ empyrean,firmament,heavens,sphere,welkin
 cemetery,graveyard,necropolis
 center,centre,midpoint
 crinion,trichion
-center,centre,heart,middle
 city,metropolis
 environs,purlieu
 conurbation,sprawl
@@ -5129,7 +4989,6 @@ confluence,meeting
 country,land,state
 bishopric,diocese,episcopate
 eparchy,exarchate
-field,theater,theatre
 district,dominion,territory
 suburb,suburbia
 demesne,domain,land
@@ -5139,7 +4998,6 @@ kingdom,realm
 princedom,principality
 sheikdom,sheikhdom
 abode,residence
-home,place
 dump,dumpsite,wasteyard
 earreach,earshot,hearing
 eyeshot,view
@@ -5163,7 +5021,6 @@ hangout,haunt,repair,resort
 fireside,hearth
 hell,hellhole,inferno
 hideaway,hideout
-heights,high
 brow,hilltop
 holy,sanctum
 horizon,skyline
@@ -5210,29 +5067,18 @@ refuge,safety
 harborage,harbourage
 savanna,savannah
 dark,darkness,shadow
-place,seat
-vacuity,vacuum
-scratch,start
-province,state
 substrate,substratum
 superstrate,superstratum
 substrate,substratum
-place,spot
-pool,puddle
 town,township
 hamlet,village
 campong,kampong
 parcel,tract
 semitropics,subtropics
-patch,plot
 veld,veldt
 locale,locus,venue
 acme,apex,peak,vertex
 divide,watershed
-bearing,heading
-course,trend
-tendency,trend
-occident,west
 wild,wilderness
 house,mansion,sign
 bull,taurus
@@ -5585,7 +5431,6 @@ soudan,sudan
 surinam,suriname
 schweiz,suisse,svizzera,switzerland
 bern,berne
-bale,basel,basle
 geneva,geneve,genf
 damascus,dimash
 alep,aleppo,halab
@@ -5601,48 +5446,6 @@ dardanelles,hellespont
 constantinople,istanbul,stamboul,stambul
 brusa,bursa
 izmir,smyrna
-america,u.s.,u.s.a.
-confederacy,dixie,dixieland,south
-north,union
-carolina,carolinas
-ala.,alabama
-ark.,arkansas
-calif.,california
-colo.,colorado
-del.,delaware
-fla.,florida
-haw.,hawai'i,hawaii
-ill.,illinois
-ind.,indiana
-kan.,kansas
-ken.,kentucky
-mass.,massachusetts
-beantown,boston
-mich.,michigan
-detroit,motown
-minn.,minnesota
-miss.,mississippi
-mont.,montana
-neb.,nebraska
-nev.,nevada
-jersey,n.j.
-okla.,oklahoma
-ore.,oregon
-tenn.,tennessee
-tex.,texas
-wash.,washington
-wis.,wisc.,wisconsin
-wyo.,wyoming
-annam,vietnam
-sana,sana'a,sanaa
-schlesien,silesia,slask,slezsko
-rhodesia,zimbabwe
-harare,salisbury
-mohave,mojave
-nafud,nefud
-fuji,fujinoyama,fujiyama
-galeras,pasto
-krakatao,krakatau,krakatoa
 abysm,abyss
 aegospotami,aegospotamos
 aerie,aery,eyrie,eyry
@@ -5657,11 +5460,8 @@ aras,araxes
 acclivity,ascent,climb,raise,rise,upgrade
 auriga,charioteer
 balaton,plattensee
-bank,camber,cant
 beehive,hive
 dipper,plough,wagon,wain
-chip,flake,fleck,scrap
-blanket,mantle
 bottom,bottomland
 boulder,bowlder
 brook,creek
@@ -5987,7 +5787,6 @@ fabaceae,leguminosae
 cocoswood,cocuswood
 coumarouna,dipteryx
 melilot,melilotus
-clover,trefoil
 cassie,huisache
 albizia,albizzia
 monkeypod,saman,zaman,zamang
@@ -6005,10 +5804,7 @@ rauvolfia,rauwolfia
 aroid,arum
 calamus,flagroot
 anthurium,tailflower
-dalo,dasheen,taro
-cocoyam,dasheen,eddo,taro
 lysichiton,lysichitum
-malanga,spoonflower,tannia,yautia
 caryophyllales,chenopodiales
 carnation,gillyflower
 catchfly,lychnis
@@ -6034,8 +5830,6 @@ cleome,spiderflower
 brassicaceae,cruciferae
 alyssum,madwort
 borecole,cole,colewort,kail,kale
-rutabaga,swede
-colza,rape
 coralroot,coralwort
 crinkleroot,toothwort
 arugula,rocket,roquette
@@ -6107,12 +5901,9 @@ munj,munja
 doura,dourah,durra
 federita,feterita
 sorgho,sorgo
-corn,maize
 galangal,galingale
 nutgrass,nutsedge
 bullrush,bulrush,nailrod,reedmace
-caryopsis,grain
-courgette,zucchini
 briony,bryony
 cantaloup,cantaloupe
 loofa,loofah,luffa
@@ -6150,7 +5941,6 @@ beetleweed,coltsfoot,galax,galaxy,wandflower
 pixie,pixy,pyxie
 pyrola,wintergreen
 beech,beechwood
-hazel,hazelnut
 cobnut,filbert
 shagbark,shellbark
 myrtales,thymelaeales
@@ -6168,7 +5958,6 @@ hypericales,parietales
 clusiaceae,guttiferae
 nitweed,pineweed
 mamey,mammee
-papaia,papaya,pawpaw
 labdanum,ladanum
 helianthemum,sunrose
 frostweed,frostwort
@@ -6226,7 +6015,6 @@ licorice,liquorice
 kennedia,kennedya
 lupin,lupine
 medic,medick,trefoil
-alfalfa,lucerne
 esparcet,sainfoin,sanfoin
 crazyweed,locoweed
 frijol,frijole
@@ -6308,7 +6096,6 @@ cyrilla,leatherwood
 bearberry,winterberry
 gallberry,inkberry
 lentisk,mastic
-shumac,sumac,sumach
 skunkbush,squawbush
 jocote,mombin
 buckeye,conker
@@ -6346,7 +6133,6 @@ sage,salvia
 satureia,satureja
 helmetflower,skullcap
 camphorweed,vinegarweed
-benne,benni,benny,sesame
 calceolaria,slipperwort
 castilleia,castilleja
 shellflower,snakehead,turtlehead
@@ -6365,9 +6151,6 @@ jamberry,miltomate,tomatillo
 verbena,vervain
 teak,teakwood
 wartweed,wartwort
-casava,cassava
-gari,mandioc,mandioca,manioc
-cassava,manioc
 camelia,camellia
 apiaceae,umbelliferae
 angelica,angelique
@@ -6397,7 +6180,6 @@ ascomycota,ascomycotina
 aspergillales,eurotiales
 gasteromycetes,gastromycetes
 gasteromycete,gastromycete
-mold,mould
 crop,harvest
 nodule,tubercle
 pricker,prickle,spikelet,spine,sticker,thorn
@@ -6487,7 +6269,7 @@ booty,loot,pillage,plunder,prize,swag
 heritage,inheritance
 bequest,legacy
 birthright,patrimony
-dower,dowery,dowry,portion
+dower,dowery,dowry
 largess,largesse
 postdoc,postdoctoral
 award,prize
@@ -6573,11 +6355,8 @@ tuppence,twopence
 fourpence,groat
 sixpence,tanner
 banknote,bill,greenback,note
-buck,clam,dollar
 encumbrance,incumbrance
-book,ledger,leger
-daybook,journal
-payroll,paysheet
+ledger,leger
 payroll,paysheet
 bankbook,passbook
 checkbook,chequebook
@@ -6773,7 +6552,6 @@ flowering,unfolding
 conglutination,union
 urbanisation,urbanization
 urochesia,urochezia
-evaporation,vapor,vaporisation,vaporization,vapour
 vascularisation,vascularization
 blistering,vesication,vesiculation
 vulcanisation,vulcanization
@@ -6787,7 +6565,6 @@ carat,karat
 reflectance,reflectivity
 transmission,transmittance
 weight,weighting
-base,radix
 magnetisation,magnetization
 megaflop,mflop
 arcdegree,degree
@@ -6803,7 +6580,6 @@ congius,gallon
 milliliter,millilitre
 centiliter,centilitre
 deciliter,decilitre
-liter,litre
 decaliter,decalitre,dekaliter,dekalitre
 hectoliter,hectolitre
 kiloliter,kilolitre
@@ -6850,7 +6626,6 @@ micrometer,micron
 millimeter,millimetre
 centimeter,centimetre
 decimeter,decimetre
-meter,metre
 decameter,decametre,dekameter,dekametre
 hectometer,hectometre
 kilometer,kilometre,klick
@@ -6926,7 +6701,6 @@ footstep,pace,step,stride
 limit,limitation
 output,production,yield
 neighborhood,region
-pick,picking
 splash,splatter
 hair,hairsbreadth,whisker
 scattering,sprinkling
@@ -7014,8 +6788,7 @@ preterit,preterite
 hyponymy,subordination
 hypernymy,superordination
 synonymity,synonymousness,synonymy
-component,constituent,part,portion
-base,basis
+component,constituent,part,portionbase,basis
 detail,item,particular
 balance,remainder,residual,residue,residuum,rest
 leftover,remnant
@@ -7115,14 +6888,12 @@ brink,threshold,verge
 bias,diagonal
 dent,incision,prick,scratch,slit
 incisura,incisure
-score,scotch
 crease,crinkle,furrow,line,seam,wrinkle
 chap,crack,cranny,crevice,fissure
 bend,crease,crimp,flexure,fold,plication
 pucker,ruck
 indentation,indenture
 stria,striation
-emptiness,vacancy,vacuum,void
 articulation,join,joint,junction,juncture
 acantha,spine,spur
 bottleneck,chokepoint,constriction
@@ -7634,8 +7405,6 @@ stammer,stutter
 disturbance,perturbation,upset
 fret,lather,stew,sweat,swither
 dither,flap,fuss,pother,tizzy
-blues,megrims,vapors,vapours
-dumps,mopes
 panic,scare
 conniption,scene,tantrum
 annoyance,botheration,irritation,vexation
@@ -7747,7 +7516,6 @@ acariasis,acaridiasis,acariosis
 echinococcosis,hydatidosis
 lousiness,pediculosis
 nihility,nothingness,nullity,void
-vacuity,vacuum
 nakedness,nudeness,nudity
 baldness,phalacrosis
 depilation,hairlessness
@@ -7769,7 +7537,7 @@ hyperdactyly,polydactyly
 syndactylism,syndactyly
 defectiveness,faultiness
 crudeness,crudity,primitiveness,primitivism,rudeness
-circumstances,destiny,fate,fortune,luck,portion
+circumstances,destiny,fate,fortune,luck
 prosperity,successfulness
 blessing,boon
 adversity,hardship
@@ -7866,7 +7634,6 @@ ambiance,ambience,atmosphere
 gloom,gloominess,glumness
 bareness,bleakness,desolation,nakedness
 miasm,miasma
-feel,feeling,flavor,flavour,look,smell,spirit,tone
 immunity,unsusceptibility
 immunity,resistance
 exemption,freedom
@@ -7966,7 +7733,6 @@ dihydroxyphenylalanine,dopa
 bendopa,brocadopa,larodopa,levodopa
 hcfc,hydrochlorofluorocarbon
 adulterant,adulterator
-alkali,base
 bromoform,tribromomethane
 fluoroform,trifluoromethane
 group,radical
@@ -8020,7 +7786,6 @@ sealant,sealer
 lute,luting
 size,sizing
 alar,daminozide
-acetaldehyde,ethanal
 acetamide,ethanamide
 alkene,olefin,olefine
 lutein,xanthophyl,xanthophyll
@@ -8036,7 +7801,6 @@ medroxyprogesterone,provera
 progestin,progestogen
 durabolin,kabolin,nandrolone
 luteotropin,prolactin
-estrogen,oestrogen
 diethylstilbestrol,diethylstilboestrol,stilbestrol,stilboestrol
 estradiol,oestradiol
 estriol,oestriol
@@ -8058,7 +7822,6 @@ lambskin,parchment,sheepskin
 fell,hide
 caffein,caffeine
 calf,calfskin
-cassava,manioc,manioca
 chammy,chamois,shammy
 cowhide,cowskin
 fleece,sheepskin
@@ -8142,7 +7905,6 @@ barf,puke,vomit,vomitus
 crud,filth,skank
 sewage,sewerage
 effluent,wastewater
-garbage,refuse,scraps
 rubbish,scrap,trash
 debris,detritus,dust,junk,rubble
 fertiliser,fertilizer
@@ -8153,10 +7915,8 @@ propanamide,proprionamide
 feldspar,felspar
 oligoclase,plagioclase
 fiberglass,fibreglass
-fiber,fibre
 fibril,filament,strand
 fill,filling
-formaldehyde,methanal
 formulation,preparation
 frankincense,olibanum,thus
 fructose,laevulose,levulose
@@ -8164,7 +7924,6 @@ furan,furane,furfuran
 furfural,furfuraldehyde
 crystal,lechatelierite,quartz
 enantiomer,enantiomorph
-dextroglucose,dextrose
 acylglycerol,glyceride
 glycerin,glycerine,glycerol
 glycerite,glycerole
@@ -8215,25 +7974,20 @@ matchwood,splinters
 magilp,megilp
 cyanuramide,melamine
 alkane,paraffin
-mold,mould
 monosaccharide,monosaccharose
 mire,slop
 gook,goop,guck,gunk,muck,ooze,slime,sludge
 medulla,myelin,myeline
 newspaper,newsprint
-base,nucleotide
 oligo,oligonucleotide
-flimsy,onionskin
 oxalacetate,oxaloacetate
 packing,wadding
 blacktop,blacktopping
 tarmac,tarmacadam
 parget,pargeting,pargetting
 pavement,paving
-crude,petroleum
 orthophosphate,phosphate
 fibrinolysin,plasmin
-color,colour
 alizarin,alizarine
 blue,blueing,bluing
 bromeosin,eosin

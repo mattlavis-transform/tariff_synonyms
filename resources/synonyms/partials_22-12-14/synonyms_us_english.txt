@@ -10,13 +10,11 @@ decilitre,deciliter
 decimetre,decimeter
 decametre,decameter
 epicentre,epicenter
-fibre,fibreboard,fibreglass,fiber,fiberboard,fiberglass
 goitre,goiter
 kilometre,kilometer
 laundrette,launderette
 lacklustre,lackluster
 litre,liter
-lustre,lustreless,luster,lusterless
 manoeuvre,manoeuvrable,manoeuvrability,maneuver,maneuverable,maneuverability
 meagre,meagrely,meagreness,meager,meagerly,meagerness
 metre,meter
@@ -33,7 +31,6 @@ sceptre,scepter
 sombre,sombrely,sombreness,somber,somberly,somberness
 spectre,spectres,specter,specters
 theatre,theater
-arbour,arbor
 ardour,ardor
 armour,armor
 behaviour,behavioural,behaviourism,behaviourist,behavior,behavioral,behaviorism,behaviorist
@@ -51,7 +48,7 @@ endeavour,endeavor
 favour,favourable,favor,favorable
 favourite,favorite,favoritism
 fervour,fervor
-flavour,flavouring,flavourless,flavor,flavoring,flavorless
+flavour,flavouring,flavor,flavoring,flavorer,flavoring,flavourer,seasoner,seasoning
 labour,labourers,labourite,labor,laborers,laborite
 malodour,malodourous,malodor,malodorous
 misbehaviour,misbehavior
@@ -74,7 +71,6 @@ unfavourable,unfavourably,unfavorable,unfavorably
 unflavoured,unflavored
 unsavoury,unsavourily,unsavory,unsavorily
 valour,valor
-vapour,vapourware,vapor,vaporware
 varicoloured,varicolored
 vigour,vigourous,vigor,vigorous
 watercolour,watercolor
@@ -90,7 +86,6 @@ manoeuvre,manoeuvrable,manoeuvrability,maneuver,maneuverable,maneuverability
 mementoes,mementos
 oedema,oedematous,edema,edematous
 oesophagus,oesophagi,oesophageal,esophagus,esophagi,esophageal
-oestrogen,oestrous,oestrus,estrogen,estrous,estrous
 orthopaedic,orthopaedist,orthopedic,orthopedist
 outmanoeuvre,outmaneuver
 paediatric,paediatrician,pediatric,pediatrician
@@ -125,7 +120,6 @@ unmoveable,unmovable
 unnameable,unnamable
 untameable,untamable
 appal,appall
-apparel,apparelled,appareled
 barrels,barrelled,barrelling,barrels,barreled,barreling
 bedevils,bedevilled,bedevilling,bedevils,bedeviled,bedeviling
 bejewelled,bejeweled
@@ -156,7 +150,6 @@ gravel,gravelled,gravel,graveled
 grovels,grovelled,grovelling,grovels,groveled,groveling
 gruelling,grueling
 initials,initialled,initialling,initials,initialed,initialing
-jewellery,jewelry,jewelery,jewllery
 kennels,kennelled,kennels,kenneled
 labels,labelled,labelling,labels,labeled,labeling
 levels,levelled,levelling,levels,leveled,leveling
@@ -217,7 +210,6 @@ camomile,chamomile
 caravanserai,caravanserais,caravansary,caravansaries
 carburettor,carburetor
 cheque,chequebook,chequer,chequered,chequers,check,checkbook,checker,checkered,checkers
-chilli,chillies,chili,chilies
 clarinettist,clarinetist
 cortices,cortexes
 defence,defenceless,defensive,defense,defenseless,defensive
@@ -234,7 +226,6 @@ gemmology,gemology
 glycerine,glycerin
 gerfalcon,gyrfalcon
 grey,greys,greyed,greying,greybeard,greyish,greyness,greyer,greyest,gray,grays,grayed,graying,graybeard,grayish,grayness,grayer,grayest
-jewellery,jewelry,jewellry
 kerb,kerbside,kerbstone,curb,curbside,curbstone
 lasagne,lasagna
 lour,lours,loured,louring,lower,lowers,lowered,lowering
@@ -252,7 +243,6 @@ plough,plow
 polythene,polyethylene
 practise,practice,practice
 programme,programmes,program,programs
-pyjama,pyjamas,pajama,pajamas
 racoon,raccoon
 savannah,savannahs,savanna,savannas
 sceptic,sceptical,sceptically,scepticism,skeptic,skeptical,skeptically,skepticism
@@ -273,4 +263,3 @@ unspoilt,unspoiled
 whirr,whir
 widthways,widthwise
 wilful,wilfully,wilfulness,willful,willfully,willfulness
-yoghurt,yogurt

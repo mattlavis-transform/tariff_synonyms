@@ -28,11 +28,11 @@ salmonidae,salmon
 whiteleg,vannamei
 pomacanthus,angelfish,pterophyllum
 faucet,tap
-chicken,hens,capon,poulet,ameraucana,andalusian,araucana,australorp,barnevelder,brahma,bresse,buckeye,cochin,cornish,crevecoeur,cubalaya,delaware,dominique,dorking,faverolles,frizzle,hamburg,houdan,minorca,onagadori,orpingtons,phoenix,sebright,serama,silkie,sussex,welsummer,wyandotte
-primate,aye-aye,baboon,bushbaby,galago,capuchin,chacma,chimpanzee,colobus,douc,douroucouli,colugo,gelada,gibbon,gorilla,grivet,guenon,guereza,indris,indri,langur,lemur,loris,macaco,macaque,mandrill,mangabey,marmoset,monkey,orang-outang,orang-utan,siamang,sifaka,talapoin,tamarin,tana,tarsier,titi,vervet,wanderoo
+chicken,hens,capon,poulet,ameraucana,andalusian,araucana,australorp,barnevelder,brahma,bresse,buckeye,cochin,crevecoeur,cubalaya,delaware,dominique,dorking,faverolles,frizzle,hamburg,houdan,minorca,onagadori,orpingtons,phoenix,sebright,serama,silkie,sussex,welsummer,wyandotte
+primate,ayeaye,baboon,bushbaby,galago,capuchin,chacma,chimpanzee,colobus,douc,douroucouli,colugo,gelada,gibbon,gorilla,grivet,guenon,guereza,indris,indri,langur,lemur,loris,macaco,macaque,mandrill,mangabey,marmoset,monkey,orang-outang,orang-utan,siamang,sifaka,talapoin,tamarin,tana,tarsier,titi,vervet,wanderoo
 camelid,dromedary,llama,guanaco,alpaca,vicuña
 0106190000,hedgehog,wildcat,badger,otter,stoat,weasel,polecat
-eagle,secretarybird,osprey,milvus,milvus,lammergeier,bateleur,shikra,besra,buteo,buteo,black-and-chestnut
+eagle,secretarybird,osprey,milvus,milvus,lammergeier,bateleur,shikra,besra,buteo,buteo
 psittaciforme,kakapo,kea,cockatiel,budgerigar
 0106390000,sparrow,robin,magpie,jay,blackbird,bluebird
 0106490000,birdwing,bookworm,cockchafer,cockroach,cutworm,damselfly,dragonfly,glowworm,gnat,grasshopper,housefly,midge,sandfly,toktokkies,twig-borer,twigborer,waxworm,wētā,woodworm,yellowjacket
@@ -57,8 +57,6 @@ mutton => 0204230019
 mutton => 0204230099
 brain,liver,kidneys,spleen,pancreas,stomach,thymus,tripe,tongue,intestines => 0206290000
 merling,whiting
-mammal => animal,mammal
-aardvark => mammal,aardvark
 cat => 0106190000,cat
 dog => 0106190000,dog
 affenpinscher => dog,affenpinscher
@@ -207,7 +205,6 @@ persian => cat,persian
 peterbald => cat,peterbald
 pixie-bob => cat,pixie-bob
 ragamuffin => cat,ragamuffin
-ragdoll => cat,ragdoll
 raas => cat,raas
 savannah => cat,savannah
 serengeti => cat,serengeti
@@ -222,3 +219,4 @@ tonkinese => cat,tonkinese
 toybob => cat,toybob
 toyger => cat,toyger
 kitten => cat,kitten
+primates,apes,chimps,chimpanzees,orangutans,lemurs,baboons,sifaka,gorilla,monkeys,langurs,bonobo
