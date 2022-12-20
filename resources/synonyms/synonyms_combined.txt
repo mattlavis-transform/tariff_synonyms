@@ -359,7 +359,7 @@ aminopherase,aminotransferase,transaminase
 amiodarone,cordarone
 amitiza,lubiprostone
 amitriptyline,elavil
-ammo,ammunition
+ammo,ammunition,munitions,ordnance
 ammonite,ammonoid
 amnesty,pardon
 amnion,amnios
@@ -612,7 +612,6 @@ armorer,armourer
 armory,armoury,arsenal
 armour,armor
 armpit,axilla
-arms,munition,weaponry
 aroid,arum
 aromasin,exemestane
 arquebus,hackbut,hagbut,harquebus
@@ -714,7 +713,7 @@ attenuation,fading
 aubagio,teriflunomide
 auberge,hostel,hostelry,lodge
 aubergine,brinjal,eggplant
-audio,sound
+audio,sound,noise
 audiometer,sonometer
 auger,gimlet,wimble
 aureomycin,chlortetracycline
@@ -912,6 +911,7 @@ basophil,basophile
 bass,basso
 bassarisk,cacomistle,cacomixle,ringtail
 bassia,kochia
+bassoon,dulcian
 basswood,lime,linden
 bast,phloem
 baste,basting,tacking
@@ -956,7 +956,7 @@ beaufort => cheese
 beauvoorde => cheese
 bedbug,chinch
 bedclothes,bedding
-bedcover,bedspread,counterpane
+bedcover,bedspread,counterpane,coverlet
 bedding,litter
 bedevils,bedevilled,bedevilling,bedevils,bedeviled,bedeviling
 bedframe,bedstead
@@ -1087,7 +1087,7 @@ bladderwrack,tang
 blah,bombast,claptrap,fustian,rant
 blame,incrimination,inculpation
 blameable,blamable
-blanket,cover
+blanket,throw
 blanquillo,tilefish
 blare,blaring,cacophony,clamor
 blast,blow,gust
@@ -1127,7 +1127,7 @@ blower,cetacean
 blowfish,globefish,puffer,pufferfish
 blowgun,blowpipe,blowtube
 blowhole,vent,venthole
-blowlamp,blowtorch,torch
+blowlamp,blowtorch
 blowout,laugher,romp,runaway,walkaway
 blowpipe,blowtube
 bluebell,harebell
@@ -1770,7 +1770,7 @@ cello,violoncello
 celluloid,cinema,film
 celom,celoma,coelom
 celontin,methsuximide
-cembalo,harpsichord
+cembalo,harpsichord,clavicytherium,virginals,spinets
 cement,cementum
 cemetery,graveyard,necropolis
 censer,thurible
@@ -2014,6 +2014,7 @@ cimetidine,tagamet
 cinch,girth
 cincture,girdle,sash,waistband,waistcloth
 cinder,clinker
+cinematographic,cine
 cinerarium,columbarium
 cinnamene,phenylethylene,styrene,vinylbenzene
 cinnamonbark => tree
@@ -2023,6 +2024,7 @@ cinque,five,fivesome,pentad,phoebe,quint,quintet,quintuplet
 cinquefoil => flower
 cipro,ciprofloxacin
 circuit,circumference
+circuitry,circuitboard
 cirque,corrie
 cirrhus,cirrus
 cistern,cisterna
@@ -2570,7 +2572,7 @@ curriculum,program,programme,syllabus
 cursinu => dog,cursinu
 cursive,longhand
 cursor,pointer
-curtain,drape,drapery,pall
+curtain,drape,drapery
 curtilage,grounds,yard
 curtsey,curtsy
 curworthy => cheese
@@ -2640,6 +2642,7 @@ dactyl,digit
 dada,dadaism
 dado,wainscot
 daffodil => flower
+dagger,dirk
 dahl,dhal
 dahlia => flower
 daikon,radish
@@ -2924,7 +2927,7 @@ disarrangement,disorganisation,disorganization
 disassociation,dissociation
 disavowal,disclaimer
 disbursal,disbursement,expense
-disc,disk,platter,record
+disc,disk
 discharge,emission,expelling
 disclosure,revealing,revelation
 disco,discotheque
@@ -3178,6 +3181,7 @@ elasmobranch,selachian
 elasmobranchii,selachii
 elater,elaterid
 elecare,elecare
+electric,electrical
 electricity,power
 electroencephalogram,encephalogram
 electron,negatron
@@ -3756,7 +3760,6 @@ formulary,pharmacopeia
 formulation,preparation
 forteo,teriparatide
 forthcomingness,imminence,imminency,imminentness,impendence,impendency
-fortification,munition
 fortune,luck
 fosse,moat
 fossilisation,fossilization
@@ -3930,6 +3933,7 @@ gens,name
 genu,knee
 genuflection,genuflexion
 genvoya,elvitegravir,cobicistat,emtricitabine
+geodetic,geodesy
 georgetown,stabroek
 georgia,sakartvelo
 geosphere,lithosphere
@@ -5678,7 +5682,7 @@ mimeo,mimeograph,roneo,roneograph
 mimolette => cheese
 mimosa => tree
 mina,minah,myna,mynah
-minibike,motorbike
+minibike,motorbike,moped
 minimalism,reductivism
 minipress,prazosin
 minisub,minisubmarine
@@ -5809,7 +5813,6 @@ multivalence,multivalency,polyvalence,polyvalency
 mulwi,munjuk,musgu
 mùmián => tree
 munchkin => cat,munchkin
-munition,ordnance
 munj,munja
 murmur,murmuration,murmuring,mussitation,mutter,muttering
 murol => cheese
@@ -6577,6 +6580,7 @@ plumeria,plumiera
 pluralisation,pluralization
 pluviometer,udometer
 plyboard,plywood
+pneumatic,inflatable
 pneumoconiosis,pneumonoconiosis
 pneumogastric,vagus
 pocket,pouch
@@ -6840,6 +6844,7 @@ queen,tabby
 quesnelia => flower
 quiet,tranquility,tranquillity
 quietus,rest,sleep
+quilt,duvet
 quinidex,quinidine,quinora
 quinquenervia,niaouli
 quittance,repayment
@@ -7015,6 +7020,7 @@ retin-a,tretinoin
 retinal,retinene
 retroflection,retroflexion,retroversion
 retrovir,zidovudine
+rev,revolution
 revenue,taxation
 revere,revers
 reverse,verso
@@ -7370,6 +7376,7 @@ shallow,shoal
 shandy,shandygaff
 sharia,shariah
 sharpam => cheese
+shaver,razor
 shedding,sloughing
 sheeprun,sheepwalk
 sheet,tabloid
@@ -7550,7 +7557,6 @@ sou'easter,southeaster
 sou'wester,southwester
 soudan,sudan
 soumaintrain => cheese
-sound,strait
 sourwood => tree
 sourwood,titi
 sousaphone,tuba
@@ -7568,6 +7574,7 @@ spaceship,starship
 spall,spawl
 spandrel,spandril
 spanner,wrench
+spark,sparking
 spatter,spattering,splatter,splattering,splutter,sputter,sputtering
 speaking,speechmaking
 spearhead,spearpoint
@@ -7671,7 +7678,7 @@ stoop,stoup
 storeroom,stowage
 storm,tempest
 story,tale,taradiddle,tarradiddle
-stove,oven
+stove,oven,cooker
 strad,stradavarius
 straight,straightaway
 straightjacket,straitjacket
@@ -7794,6 +7801,7 @@ synezesis,synizesis
 synjardy,empagliflozin
 synonymity,synonymousness,synonymy
 syntagm,syntagma
+synthesiser,synth
 synthesiser,synthesizer
 synthroid,usp
 syprine,trientine
@@ -7809,6 +7817,7 @@ taboret,tabouret
 tabrecta,capmatinib
 tach,tachometer
 tacheometer,tachymeter
+tachymeters,tacheometers
 tadjik,tadzhik,tadzhikistan,tajik,tajikistan
 taegu,tegu
 tafinlar,dabrafenib
@@ -7890,7 +7899,6 @@ teetotum,whirligig
 teflaro,ceftaroline
 teheran,tehran
 teifi => cheese
-telecasting,television,video
 telecom,telecommunication
 teleconference,teleconferencing
 telegram,wire
@@ -7899,7 +7907,7 @@ telemea => cheese
 teleost,teleostan
 telephoto,telephotograph
 teleprinter,teletypewriter,telex
-television,telly
+television,telly,tv
 telfer,telpher
 telferage,telpherage
 telomian => dog,telomian
@@ -8029,6 +8037,7 @@ touraco,turaco,turacou,turakoo
 tourmalet => cheese
 tournament,tourney
 towboat,tower,tugboat
+towel,bathtowel,handtowel,dishcloth
 toweling,towelling
 towels,towelled,towelling,towels,toweled,toweling
 towline,towrope
@@ -8043,6 +8052,7 @@ trachodon,trachodont
 trachycarpus => tree
 tracleer,bosentan
 tradjenta,linagliptin
+training,trainer
 tram,tramcar
 tramline,tramway
 trammelling,trammeling
@@ -8096,6 +8106,7 @@ trithrinax => tree
 triumeq,abacavir,dolutegravir,lamivudine
 triumph,victory
 trochlear,trochlearis
+trombine,sackbut
 tronchon => cheese
 troponomy,troponymy
 truck,lorry,hgv,lkw,camion
@@ -8172,6 +8183,7 @@ ulcer,ulceration
 ulloa => cheese
 ultimacy,ultimateness
 ultomiris,ravulizumab-cwvz,iv
+umbrella,parasol
 umma,ummah
 unai,unau
 uncoloured,uncolored
@@ -8388,6 +8400,7 @@ wistaria,wisteria
 withe,withy
 woad => flower
 wolfbane,wolfsbane
+wood,wooden
 woodcreeper,woodhewer
 wool,woolen,woollen
 woollen,woollens,woolen,woolens
