@@ -54,6 +54,7 @@ academe,academia
 acamol,acet,acetalgin,adol,aeknil,aldolor,alvedon,apap,apiretal,apiretal flas,atamel,atasol,benuron,biogesic,biogesic-kiddielets,buscapina,calonal,calpol,captin,cemol,cetamol,coldex,coldrex,co-tipol,cotibin,crocin,dolo,dafalgan,daleron,depon,dexamol,dolex,dolgesic,doliprane,dolorol,dolprone,dolyc,efferalgan,endopain,enelfa,europain,excedrin,febrectal,febricet,febridol,fensum,gelocatil,gripin,gesic,hedex,hedanol,herron,influbene,kafa,kitadol,lekadol,lupocet,metacin,mexalen,milidon,minoset,momentum,napa,napadol,niko,neo-kiddielets,pacol,pamol,parol,panado,panadol,panamax,panda,panodil,paracet,paracitol,paralen,paramax,paramed,paratabs,paramol,paracetol,parol,perdolan,perfalgan,pinex,piretanyl,plicet,pyrenol,pyrigesic,reliv,revanin,rokamol,rubophen,sara,scanol,tachipirin,tachipirina,tafirol,tapsin,termalgin,tempra,thomapyrin,tipol,treuphadol,triaminic,tylenol,uphamol,vermidon,vitamol,xumadol,zolben => paracetamol
 acantha,spine,spur
 acanthisittidae,xenicidae
+acanthurus => fish,acanthurus
 acanthus => flower
 acapnia,hypocapnia
 acaracide,acaricide
@@ -61,7 +62,8 @@ acariasis,acaridiasis,acariosis
 acaryote,akaryocyte,akaryote
 accelerator,throttle
 access,approach
-accessory,accouterment,accoutrement,appurtenance,supplement
+accessory,accessory,accessery,accessories,accessaries,accesrise,accesorie,accsessories,accessor,accsessory,accessarie,acessories
+accessory,accouterment,accoutrement,appurtenance,supplement,peripheral
 accho,acre,akka,akko
 acciaccatura,appoggiatura
 accident,fortuity,stroke
@@ -70,7 +72,9 @@ acclimation,acclimatisation,acclimatization
 acclivity,ascent,climb,raise,rise,upgrade
 accolade,award,honor,honour,laurels
 accouchement,childbearing,childbirth
+accoustic,acoustic
 accoutre,accoutrement,accouter,accouterment
+accoya => wood,accoya
 accretion,accumulation
 accumulation,aggregation,assemblage,collection
 accumulator => battery,accumulator
@@ -179,6 +183,7 @@ aemcolo,rifamycin
 aeolia,aeolis
 aeolic,eolic
 aerial,antenna
+aerial,arial,ariel,aeriel
 aerie,aery,eyrie,eyry
 aerodrome,airdrome,airport,drome
 aeroembolism,bends
@@ -243,6 +248,7 @@ akita => dog,akita
 akmola,astana
 akume => tree
 akvavit,aquavit
+alan,allan,allen
 alar,daminozide
 alarm,alarum,alert
 alastrim,pseudosmallpox,pseudovariola
@@ -263,7 +269,7 @@ aldactone,spironolactone
 aldara,imiquimod
 aldomet,methyldopa
 aldosteronism,hyperaldosteronism
-ale,beer,lager
+ale,beer,lager,stout,porter
 alecensa,alectinib
 alecost,costmary
 alendronate,fosamax
@@ -738,6 +744,7 @@ autonomy,liberty
 autophyte,autotroph
 autun => cheese
 auvi-q,epinephrine
+avacado,avocado
 avastin,bevacizumab
 avaxtskyr => cheese
 aveloz => tree
@@ -850,7 +857,7 @@ bane,curse,nemesis,scourge
 baneberry,cohosh
 banger,cracker,firecracker
 bangla,bengali
-bangle,bauble,fallal,gaud,gewgaw,trinket,bracelet
+bangle,bauble,fallal,gaud,gewgaw,trinket,bracelet,bangel
 bangtail,racehorse
 banian,banyan
 banishment,coventry,ostracism
@@ -1023,7 +1030,7 @@ bichromate,dichromate
 bicker,bickering,fuss,pettifoggery,spat,squabble,tiff
 bicorn,bicorne
 bicuspid,premolar
-bicycle,bike
+bicycle,bike,bycycle
 bida,doha
 biddy,chick
 bierkase => cheese
@@ -1135,8 +1142,10 @@ bluebill,broadbill,scaup
 blusher,paint,rouge
 boab => tree
 boaboa => tree
+boardgame,articulate,risk,monopoly,yahtzee,kniffel,catan,simon,pictionary,balderdash,buckaroo,totopoly
 boatbill,broadbill
 bobbin,reel,spool
+bobinot,bobbinet
 bobolink,reedbird,ricebird
 bobsleigh,bobsled
 bobtail,dock
@@ -1287,7 +1296,7 @@ breiz,bretagne,brittany
 breslau,wroclaw
 brevibloc,esmolol
 brevicipitidae,microhylidae
-brew,brewage
+brew,brewage,brewing,brewery
 briar,brier,bullbrier,catbrier,greenbrier
 briard => dog,briard
 briarwood,brierwood
@@ -1400,7 +1409,7 @@ burgoo,oatmeal
 burgos => cheese
 burial,entombment,inhumation,interment,sepulture
 burka,burqa
-burlap,gunny
+burlap,gunny,jute,hessian
 burlesque,lampoon,mockery,parody,pasquinade,sendup,spoof,takeoff,travesty
 burma,myanmar
 burmese => cat,burmese
@@ -1427,8 +1436,6 @@ butterfruit => tree
 butterkase => cheese
 butterweed,ragwort
 buttery,larder,pantry
-buttock,cheekbutton,clit,clitoris
-button,push
 buttonbush => tree
 buttonwood => tree
 buttress,buttressing
@@ -1544,6 +1551,7 @@ camcevi,leuprolide
 camelia,camellia
 camelid,dromedary,llama,guanaco,alpaca,vicuña
 camelopard,giraffe
+camera,camer
 cameroon,cameroun
 camion,dray
 camisole,underbodice
@@ -1591,7 +1599,7 @@ cantata,oratorio
 canton,guangzhou,kuangchou,kwangchow
 canvas,canvass
 canvassing,electioneering
-caoutchouc,rubber
+caoutchouc,rubber,rubbe
 caparison,housing,trapping
 cape,ness
 capelan,capelin,caplin
@@ -1680,7 +1688,7 @@ caryota => tree
 casbah,kasbah
 cascade,shower
 cashbox,till
-cashmere,kashmir
+cashmere,cashmeer,kashmir
 cask,caskful
 casket,coffin
 casquet,casquetel
@@ -1840,7 +1848,6 @@ chalcid,chalcidfly
 chalcidae,chalcididae
 chaldaea,chaldea
 chalice,goblet
-chalk,crank,deoxyephedrine,glass,meth,methamphetamine,methedrine,shabu
 chalkstone,tophus
 challah,hallah
 chalybite,siderite
@@ -1850,7 +1857,6 @@ chamberpot,potty
 chamfron,chanfron,frontstall,testiere
 chammy,chamois,shammy
 chanal,chanar
-chandelier,pendant,pendent
 chang,changjiang,yangtze
 changan,hsian,sian,singan,xian
 changeover,conversion,transition
@@ -1890,6 +1896,7 @@ cheek,impertinence,impudence
 cheekbone,malar,zygomatic
 cheep,peep
 cheering,shouting
+cheese,chees
 cheetah,chetah
 cheewink,chewink
 cheiloschisis,harelip
@@ -1971,7 +1978,7 @@ chlorothiazide,diuril
 chlorpromazine,thorazine
 chlorthalidone,hygroton,thalidone
 chock,wedge
-chocolate,cocoa
+chocolate,cocoa,coco
 choir,consort
 choker,ruff,ruffle
 chokey,choky
@@ -2011,6 +2018,7 @@ ciliate,ciliophoran
 cilioflagellata,dinoflagellata
 cilium,eyelash,lash
 cimetidine,tagamet
+cinammon,cinnamon
 cinch,girth
 cincture,girdle,sash,waistband,waistcloth
 cinder,clinker
@@ -2096,7 +2104,7 @@ closet,cupboard,wardrobe
 clostridia,clostridium
 closure,cloture
 clot,coagulum
-cloth,fabric,material,textile
+cloth,fabric,material,textile,canvas
 clotting,coagulation,curdling
 cloud,swarm
 cloudburst,deluge,downpour,pelter,soaker,torrent,waterspout
@@ -2152,7 +2160,7 @@ code,codification
 coerebidae,dacninae
 coevals,contemporaries,generation
 coffea => tree
-coffee,java
+coffee,java,cofee
 cogwheel,gear
 coherence,coherency,cohesion,cohesiveness
 coho,cohoe
@@ -2181,11 +2189,13 @@ colligation,conjugation,conjunction,junction
 collusion,connivance
 collyrium,eyewash
 cologne,koln
+color,colour
 colorcast,colourcast
 colorimeter,tintometer
 coloring,colouring
 colostrum,foremilk
 colour,coloured,colourfast,colourful,color,colored,colorfast,colorful,colorize
+colouring,coloring
 colpocele,vaginocele
 colpocystocele,cystocele
 colter,coulter
@@ -2231,7 +2241,6 @@ compilation,digest
 complera,emtricitabine,rilpivirine
 complication,ramification
 compliments,regard,wish
-computer,laptop
 comte => cheese
 conakry,konakri
 concavity,incurvation,incurvature
@@ -2318,6 +2327,7 @@ convenience,restroom
 conventicle,meetinghouse
 converter,convertor
 conveyer,conveyor,transporter
+cooking,cookery
 coolea => cheese
 cooleney => cheese
 cooler,tank
@@ -2453,6 +2463,7 @@ crampfish,numbfish,torpedo
 crampon,crampoon
 crane,grus
 craniata,vertebrata,vertebrate
+crank,deoxyephedrine,meth,methamphetamine,methedrine,shabu
 crank,starter
 crape,crepe
 crash,wreck
@@ -2482,7 +2493,7 @@ crick,kink,rick,wrick
 crill,krill
 criminalism,criminality,criminalness
 crimper,curler,roller
-cringle,eyelet,grommet,grummet,loop
+cringle,eyelet,grommet,grummet,loop,gromet,grommit,gromit
 crinion,trichion
 crinkleroot,toothwort
 crinoline,hoopskirt
@@ -2771,7 +2782,7 @@ denali,mckinley
 denavir,penciclovir
 dendraspis,dendroaspis
 denial,disaffirmation
-denim,jean,jeans
+denim,jean,jeans,demin
 denotation,indication
 denouncement,denunciation
 densimeter,densitometer
@@ -3186,7 +3197,6 @@ electricity,power
 electroencephalogram,encephalogram
 electron,negatron
 elegy,lament
-elevation,lift,raising
 elevator,lift
 elidel,pimecrolimus
 elimination,evacuation,excreting,excretion,voiding
@@ -3385,6 +3395,7 @@ ethanediol,glycol
 ethchlorvynol,placidyl
 ethene,ethylene
 ether,ethoxyethane
+ethernet,lan
 ethocaine,procaine
 etodolac,lodine
 etorki => cheese
@@ -3532,7 +3543,7 @@ fecundity,fertility
 federalisation,federalization
 federita,feterita
 fedora,homburg,stetson,trilby
-feed,food,foodstuff
+feed,food,foodstuff,fodder
 feedbag,nosebag
 feist,fice
 felbatol,felbamate
@@ -3700,7 +3711,7 @@ flux,fluxion
 flyover,overpass
 flyswat,flyswatter,swatter
 foal => horse
-foam,froth
+foamex,foamboard,palight,palram
 focalisation,focalization
 focus,nidus
 foehn,fohn
@@ -3812,7 +3823,7 @@ frinault => cheese
 fringepod,lacepod
 fringetree => tree
 friuli,friulian
-frock,dress
+frock,dress,dres,abaya
 frontal,frontlet
 frosting,icing
 frostweed,frostwort
@@ -3830,6 +3841,7 @@ fumeroot,fumewort,fumitory
 functioning,operation,performance
 fund,stock,store
 funeral,obsequy
+fungus,fungi,fungal
 funicle,funiculus
 funka,hosta
 funkaceae,hostaceae
@@ -3873,7 +3885,6 @@ gangdom,gangland
 ganoin,ganoine
 gansu,kansu
 gantanol,sulfamethoxazole
-gantlet,gauntlet
 gantrisin,sulfisoxazole
 gantry,gauntry
 garamycin,gentamicin
@@ -3941,6 +3952,7 @@ gerbil,gerbille
 gerfalcon,gyrfalcon
 germ,microbe
 germination,sprouting
+germolene,savlon,sudocrem => antiseptic
 gerreidae,gerridae
 gerridae,gerrididae
 gestation,maternity,pregnancy
@@ -3957,7 +3969,7 @@ gibibyte,gigabyte
 giblet,giblets
 gilding,gilt
 gilenya,fingolimod
-gilet,jerkin => waistcoat
+gilet,gillet,jerkin => waistcoat
 gill,lamella
 gilliflower => flower
 gilotrif,afatinib
@@ -3978,6 +3990,7 @@ gladstone,portmanteau
 gland,secreter,secretor
 glare,limelight,spotlight
 glareole,pratincole
+glas,glass
 glasshouse,greenhouse
 glassware,glasswork
 glasswort,samphire
@@ -3997,7 +4010,7 @@ glorification,glory
 glossalgia,glossodynia
 glossina,tsetse,tzetze
 glossy,slick
-glove,mitt
+glove,mitt,gantlet,gauntlet
 glucagon,glucagon
 glucophage,metformin
 glucose,dextrose,dextroglucose
@@ -4373,7 +4386,6 @@ herrgardsost => cheese
 herve => cheese
 herzuma,trastuzumab-pkrb
 hesperus,vesper
-hessian,jackboot,wellington
 heterocycle,heterocyclic
 heterogenesis,xenogenesis
 heterograft,xenograft
@@ -4435,6 +4447,7 @@ holometabolism,holometaboly
 holy,sanctum
 home-made,homemade
 homeotherm,homoiotherm,homotherm
+homeware,homewear
 homily,preachment
 hommos,hoummos,hummus,humous,humus
 homo,human
@@ -4699,7 +4712,7 @@ inquiring,questioning
 inrebic,fedratinib
 insaneness,lunacy,madness
 inscription,lettering
-insecticide,amdro,baygon,flit,foray,mortein,raid,vigilante
+insecticide,amdro,baygon,flit,foray,mortein,raid,vigilante,acelepryn
 insert,inset
 insertion,interpolation
 insessores,percher
@@ -4790,6 +4803,7 @@ izmir,smyrna
 jabalpur,jubbulpore
 jabiru,saddlebill
 jacaranda => tree
+jackboot,wellington
 jackpot,kitty
 jackstraw,spillikin
 jade,jadestone
@@ -4824,7 +4838,7 @@ jenever,hollands,genever,genièvre,peket
 jennet,jenny
 jentadueto,linagliptin,metformin
 jerk,jerky
-jersey,pullover,jumper,sweater
+jersey,pullover,jumper,sweater,tanktop
 jessamine => flower
 jevtana,cabazitaxel
 jewellery,jewelry,jewelery,jewllery
@@ -4976,6 +4990,7 @@ kirghiz,kirghizia,kirghizstan,kirgiz,kirgizia,kirgizstan,kyrgyzstan
 kishu => dog,kishu
 kismat,kismet
 kisqali,ribociclib
+kitchenware,kitchenwear
 kitten => cat,kitten
 kitten => kitten,cat,pet
 kitten,kitty
@@ -5048,6 +5063,7 @@ laconicism,laconism
 lactaid,lactase
 lactobacillaceae,lactobacteriaceae
 ladder,ravel
+lady,woman,ladies,women,female,feminine
 ladybeetle,ladybird,ladybug
 ladyfish,tenpounder
 lagan,lagend,ligan
@@ -5067,7 +5083,7 @@ lamictal,lamotrigine
 lamisil,terbinafine
 lamivudine,zidovudine)
 lammergeier,lammergeyer
-lamp,lantern
+lamp,lantern,light,lighting
 lampit,nifurtimox
 lampshade,shade
 lance,shaft,spear
@@ -5219,7 +5235,6 @@ lien,spleen
 lietuva,lithuania
 lifelessness,motionlessness,stillness
 lift,rise
-light,lighting
 likeness,semblance
 lilac => flower
 liliopsida,monocotyledonae,monocotyledones
@@ -5354,6 +5369,7 @@ luzu,luliconazole
 lybalvi,olanzapone,samidorphan
 lycopersicon,lycopersicum
 lycopodiate,lycopsida
+lycra,elastane
 lykoi => cat,lykoi
 lymphangiectasia,lymphangiectasis
 lymphocytopenia,lymphopenia
@@ -5373,6 +5389,7 @@ maarianhamina,mariehamn
 macacauba => tree
 macadam,tarmac,tarmacadam
 macao,macau
+macbook,laptop
 macconais => cheese
 macedon,macedonia,makedonija
 machete,matchet,panga
@@ -5466,6 +5483,7 @@ manteidae,mantidae
 mantelet,mantilla,mantlet
 mantid,mantis
 manur => cheese
+manure,slurry
 manx => cat,manx
 manzanillo => tree
 marabou,marabout
@@ -5787,6 +5805,7 @@ moult,molt
 mountainside,versant
 mounties,rcmp
 mouse,shiner
+mousemat,mousepad
 moustache,mustache
 moustachio,mustachio
 mouthful,taste
@@ -5911,7 +5930,6 @@ nebcin,tobramycin
 nebelung => cat,nebelung
 nebiim,prophets
 neckcloth,stock
-necklace,pendant
 necrology,obit,obituary
 nectandra => tree
 need,want
@@ -6275,6 +6293,7 @@ panting,trousering
 papacy,pontificate
 papaia,papaya,pawpaw
 papaverales,rhoeadales
+paper,pap
 paperback,softback
 paperbark => tree
 paperboard,posterboard
@@ -6315,6 +6334,7 @@ parrotfish,pollyfish
 parsabiv,etelcalcetide
 parsec,secpar
 parsonage,rectory,vicarage
+part,spare
 parthenogenesis,parthenogeny
 participial,participle
 partisan,partizan
@@ -6383,7 +6403,7 @@ pemican,pemmican
 penamellera => cheese
 penbryn => cheese
 pencarreg => cheese
-pendant,pendent
+pendant,pendent,necklace
 peneplain,peneplane
 penn,pennsylvania
 penn'orth,pennyworth
@@ -6472,7 +6492,7 @@ phlebogram,venogram
 phlegm,sputum
 phoenix => tree
 phonation,vocalisation,vocalism,vocalization,voice
-phone,telephone,cellphone,smartphone
+phone,telephone,cellphone
 phoney,phoneys,phony,phonies
 phoronida,phoronidea
 photalgia,photophobia
@@ -6551,6 +6571,7 @@ plant,works
 plash,splash
 plasm,plasma
 plaster,plasterwork
+plastic,plasti
 plasticiser,plasticizer
 platan,sycamore
 plateau,tableland
@@ -6558,6 +6579,7 @@ platelet,thrombocyte
 platform,program
 platyrrhine,platyrrhinian
 playstation,xbox
+plaything,toy
 plea,supplication
 plecopteran,stonefly
 pledge,toast
@@ -6652,6 +6674,7 @@ porgy,scup
 pork,gammon
 porridge,oats
 port,cockburns
+portable,handheld
 portrait,portraiture,portrayal
 portrazza,necitumumab
 poser,sticker,stumper,toughie
@@ -6673,7 +6696,6 @@ pothouse,saloon,taphouse
 poultry,chicken,hen
 pounding,throb,throbbing
 pourly => cheese
-powder,pulverisation,pulverization
 powderpuff,puff
 power,superpower
 ppe,ppe
@@ -6796,6 +6818,7 @@ puli => dog,puli
 pull,twist,wrench
 pullback,tieback
 pulmocare,pulmocare
+pulverisation,pulverization
 pumi => dog,pumi
 pummelled,pummelling,pummeled,pummeling
 pummelo => tree
@@ -6897,6 +6920,7 @@ raphe,rhaphe
 raphia => tree
 rapier,tuck
 rapport,resonance
+raschel, milanese, locknit
 raschera => cheese
 rasht,resht
 rasp,rasping
@@ -7201,6 +7225,7 @@ sambucus => tree
 samiel,simoom,simoon
 samisen,shamisen
 samoyed => dog,samoyed
+sample,swatch
 samso => cheese
 sanatarium,sanatorium,sanitarium
 sancerre => cheese
@@ -7211,6 +7236,7 @@ sander,smoother
 saneness,sanity
 sangaree,sangria
 sanicle,snakeroot
+sanitiser,sanitizer
 sapele => tree
 saphnelo,anifrolumab-fnia
 sapodilla,sapota
@@ -7364,7 +7390,7 @@ settling,subsidence,subsiding
 seventeen,xvii
 sevilla,seville
 sewage,sewerage
-sewing,stitchery
+sewing,stitchery,sowing
 sextet,sextette,sixsome
 shaddick => tree
 shade,shadiness,shadowiness
@@ -7502,6 +7528,7 @@ slovenia,slovenija
 smalandstövare => dog,smalandstövare
 smallpox,variola
 smart,smarting,smartness
+smartphone,iphone
 smelter,smeltery
 smog,smogginess
 smoke,smoking
@@ -7618,6 +7645,7 @@ spongefly,spongillafly
 spoon,spoonful
 spork => spork,cutlery
 sporophyl,sporophyll
+sport,sporting
 spravato,esketamine
 spray,spraying
 sprechgesang,sprechstimme
@@ -7662,6 +7690,7 @@ stela,stele
 stelara,ustekinumab
 stencilled,stencilling,stenciled,stenciling
 stenosis,stricture
+stentering,tentering
 step,tone
 stercobilinogen,urobilinogen
 stereo,stereophony
@@ -7918,6 +7947,7 @@ tendinitis,tendonitis,tenonitis
 tendosynovitis,tenosynovitis
 tendrac,tenrec
 tenivac,tetanus
+tent,teepee,wigwam,pavilion,yurt
 tepezza,teprotumumab-trbw
 tepmetko,tepotinib
 tercel,tercelet,tiercel
@@ -7979,6 +8009,7 @@ tick,ticking
 ticktock,tictac,tocktact
 ticodendron => tree
 tidbit,titbit
+tie,necktie,cravat
 tiglon,tigon
 tikosyn,dofetilide
 till,trough
@@ -8106,6 +8137,7 @@ trithrinax => tree
 triumeq,abacavir,dolutegravir,lamivudine
 triumph,victory
 trochlear,trochlearis
+trolly,trolley
 trombine,sackbut
 tronchon => cheese
 troponomy,troponymy
@@ -8118,7 +8150,7 @@ trulicity,dulaglutide
 truvada,emtricitabine
 truxima,rituximab-abbs
 tryptophan,tryptophane
-tshirt => t-shirt
+tshirt, teeshirt => t-shirt
 tube,tubing
 tuberose => flower
 tufa,tuff
@@ -8251,7 +8283,7 @@ vasterbottenost => cheese
 vaudois,waldenses
 veal,veau
 vectibix,panitumumab
-vegetable,veggie
+vegetable,veggie,veg
 veil,velum
 vein,vena
 velban,vinblastine
@@ -8400,6 +8432,7 @@ wistaria,wisteria
 withe,withy
 woad => flower
 wolfbane,wolfsbane
+womens,women,ladies,lady
 wood,wooden
 woodcreeper,woodhewer
 wool,woolen,woollen
